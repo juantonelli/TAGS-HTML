@@ -1,0 +1,109 @@
+<html>
+    <head>
+        <title>Curso HTML Dio.me</title>
+    </head>
+    <body>
+        <h1 id= "inicio">Tags aprendidas</h1>
+        <hr/>
+        <h2> Tags</h2>
+        <ul>
+            <li><a href="#h1"> Tag h1 até h6  </a></li>
+            <li><a href="#p"> Tag p </a></li>
+            <li><a href="#mark"> Tags mark</a></li>
+            <li><a href="#small"> Tags small</a></li>
+            <li><a href="#i"> Tags i</a></li>
+            <li><a href="#u"> Tags u</a></li>
+            <li><a href="strong"> Tags strong</a></li>
+            <li><a href="#ol"> Tags ol</a></li>
+            <li><a href="#ul"> Tags ul</a></li>
+            <li><a href="#li"> Tags li</a></li>
+            <li><a href="#a"> Tags a</a></li>
+            <li><a href="#hr"> Tags hr</a></li>
+            <li><a href="#sub"> Tags sub </a></li>
+            <li><a href="#sup"> Tags sup </a></li>
+            <li><a href="#blockquote"> Tags blockquote </a></li>
+            <li><a href="#del"> Tags del </a></li>
+            <li><a href="#abbr"> Tags abbr </a></li>
+            <li><a href="#font"> Tags font</a></li>
+ 
+        </ul> 
+
+        <h2 id="h1"> h1 a h6</h2>
+        <small> <a href="inicio">(Voltar) </a> </small>
+        <p>Tags h1 até h6 são tags de titulos, nos quais conforme aumenta o h, menor o titulo. </p>
+        <p>Exemplos: H1 titulo maior, h2 menor, h3 menor que h2, h4 menor que h3... </p>
+        <p>E assim sucessivamente até chegaermos no menor que é o h6. </p>
+        <p>Como se fosse titulos e subtitulos.</p>
+
+        <h2 id="p"> p </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>A tag p nada mais é do que paragráfos.</p>
+        <p>Sempre que necessário o paragráfo utilizar a tags p </p>
+
+        <h2 id="mark"> Mark </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Tem como funcão destacar a palavra, como se fosse um marca texto.</p>
+
+        <h2 id="small"> Small </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Geralmente utilizada em um pequeno comentário.</p>
+
+        <h2 id="i"> i</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Transforma o texto em italico </p>
+       
+        <h2 id="u"> u </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Texto sublinhado</p>
+
+        <h2 id="strong"> Strong </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Deixa o texto em negrito, da destaque a palavra. </p>
+
+        <h2 id="ol"> ol</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Sao tags de listas ordenadas. </p>
+
+        <h2 id="ul"> ul </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Tags de listas não ordenadas. </p>
+       
+        <h2 id="li"> li</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Representa um item em uma lista. Incluímos dentro da lista os elementos da mesma, dentro das tags ul e ol </p>
+
+        <h2 id="a"> a </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Adicionado ao href, é a tag onde é direcionados os hiperlinks </p>
+
+        <h2 id="hr"> hr</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Forma uma linha horizontal e nao necessita de fechamento.</p>
+
+        <h2 id="sub"> sub</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>textos subscritos, como quando vamos escrever h<sub>2</sub>O</p>
+
+        <h2 id="sup"> sup</h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Textos superiores. Geralemente utilizadas quando vamos fazer alguma operacão.
+        <p>Com exempleo: 2<sup>4</sup></p>
+
+        <h2 id="blockquote"> blockquote </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Utilizada quando é desejado citar algo, deixar em destaque. </p>
+
+        <h2 id="font"> font </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Utilizada quando é desejado alterar a fonte da letra, cor . </p>
+
+        <h2 id="del"> del </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Utilizada quando é desejado tracar o <del>texto</del>. </p>
+
+        <h2 id="abbr"> abbr </h2>
+        <small> <a href="inicio">(Voltar)</a></small>
+        <p>Utilizada quando é desejado abreviar o texto. </p>
+
+    </body>
+</html>
